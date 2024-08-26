@@ -17,4 +17,12 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;
 ![Termux](https://img.shields.io/badge/Termux-0D1117?style=for-the-badge&logo=termux&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABeElEQVRYR+2XS07DQAyFf3ZsM8BlJsk7oDYSuAzJ9KBqEjOjkEfkB3IDklPgbdS6N3OXnoI5i9aXHt+GGmL9z9FOi0+YYiV6wF+wWcJeI9NVOkUzpDbDmf6UAZ51i43Urcpr9SEFHLFj5E6O2fUgzDHR7p0u9GbjGNGHbYJOr1RJ20wCj5p0XMk8QbRpRclP8shumXQnt3aE1vwPo8eTRKJXXojZZnFbK1N61Y9UE3CvKPboNwGnrjGwzq5Ky6JD/o6Zr3ygql+bRgDB96wK23DNn1Asz0fqPeMJfVLeehjDYq7HcPUY/1icYRHfQhWsbx8wlpPibgVjqyD0XtWoy4wdO5fX8Dd8TfZwtbPK/m3yZ2ekG7l/AXUk/NdTYAlr4k0yTkBMqAAAAAElFTkSuQmCC)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{aquilesTrindade13}/count.svg" /></p> 
+<br></div>
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
