@@ -1,11 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFB4AB&height=180&section=header"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header"/> 
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFB4A8&size=35&center=true&vCenter=true&width=1000&lines=Hello,+friends;Welcome+to+my+GitHub+profile!;My+name+is+Aquiles;I+am+Brazilian)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Programmers!;Welcome+to+my+GitHub+;My+name+is+Aquiles+Trindade;I+am+Brazilian;)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=trindadedev13&show_icons=true&count_private=true&hide_border=true&title_color=FFB4A8&icon_color=FFB4A8&text_color=c9d1d9&bg_color=0d1117" alt="Aquiles Trindade github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trindadedev13&layout=compact&hide_border=true&title_color=FFB4A8&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=trindadedev13&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9&bg_color=0d1117" alt="Aquiles Trindade github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trindadedev13&layout=compact&hide_border=true&title_color=FF0000&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 ### Languages
@@ -26,4 +25,4 @@
 <br></div>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFB4AB&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
