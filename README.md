@@ -6,6 +6,11 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=trindadedev13&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9&bg_color=0d1117" alt="Aquiles Trindade github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trindadedev13&layout=compact&hide_border=true&title_color=FF0000&text_color=c9d1d9&bg_color=0d1117" />
 </div>
+<div align="center">
+  <a href="https://github.com/trindadedev13">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=trindadedev13&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
+  </a>
+</div>
 
 ### Languages
 
