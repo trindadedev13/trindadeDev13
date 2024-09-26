@@ -22,6 +22,7 @@
 <p align="center">
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg">
+     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg">
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg">
 <br>
 
